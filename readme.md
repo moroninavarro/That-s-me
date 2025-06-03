@@ -58,5 +58,5 @@
 
 I'm working on a project about a website to rent apartments, the user can pick any apartment and select anyone with the mouse, when he click on it, will display all the information about the apartment, such as the cost, if is furnished etc.  
 
-### Input
-
+### APP
+I will send you a link in the future to be able to see the Website.

@@ -1,6 +1,6 @@
-[![Prettier Banner](https://unpkg.com/prettier-logo@1.0.3/images/prettier-banner-light.svg)](https://prettier.io)
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
-<h2 align="center">Opinionated Code Formatter</h2>
+<h2 align="center">Hello, I'm Moroni Alanis and this is my GitHub repository</h2>
 
 <p align="center">
   <em>

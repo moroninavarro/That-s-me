@@ -54,47 +54,9 @@
     <img alt="Follow Prettier on X" src="https://img.shields.io/badge/%40PrettierCode-9f9f9f?style=flat-square&logo=x&labelColor=555"></a>
 </p>
 
-## Intro
+## Description
 
-Prettier is an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
+I'm working on a project about a website to rent apartments, the user can pick any apartment and select anyone with the mouse, when he click on it, will display all the information about the apartment, such as the cost, if is furnished etc.  
 
 ### Input
 
-<!-- prettier-ignore -->
-```js
-foo(reallyLongArg(), omgSoManyParameters(), IShouldRefactorThis(), isThereSeriouslyAnotherOne());
-```
-
-### Output
-
-```js
-foo(
-  reallyLongArg(),
-  omgSoManyParameters(),
-  IShouldRefactorThis(),
-  isThereSeriouslyAnotherOne(),
-);
-```
-
-Prettier can be run [in your editor](https://prettier.io/docs/editors) on-save, in a [pre-commit hook](https://prettier.io/docs/precommit), or in [CI environments](https://prettier.io/docs/cli#list-different) to ensure your codebase has a consistent style without devs ever having to post a nit-picky comment on a code review ever again!
-
----
-
-**[Documentation](https://prettier.io/docs/)**
-
-[Install](https://prettier.io/docs/install) ·
-[Options](https://prettier.io/docs/options) ·
-[CLI](https://prettier.io/docs/cli) ·
-[API](https://prettier.io/docs/api)
-
-**[Playground](https://prettier.io/playground/)**
-
----
-
-## Badge
-
-Show the world you're using _Prettier_ → [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-
-```md
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-```
